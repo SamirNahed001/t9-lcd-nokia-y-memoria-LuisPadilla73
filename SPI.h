@@ -1,9 +1,9 @@
 /*
  * 	SPI.h
  *
- *  Edited on: 28 mar 2023
+ *  Edited on: 15 abril 2024
  *  Author:	J. Luis Pizano Escalante
- *  Editors: L. Enrique Gortárez Ramírez, ie724619@iteso.mx
+ *  Editors: L. Gerardo Padilla Torres, luis.padilla@iteso.mx
  *  		 S. Nahed Garcia, ie719805@iteso.mx
  *
  */

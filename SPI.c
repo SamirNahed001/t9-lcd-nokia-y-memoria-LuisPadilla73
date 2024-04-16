@@ -147,6 +147,7 @@ void Recive_Data(uint8_t x){
 	TransferMemory.configFlags				= kDSPI_MasterCtar1 | kDSPI_MasterPcs1 | kDSPI_MasterPcsContinuous;
 
 	DSPI_MasterHalfDuplexTransferBlocking(EXAMPLE_DSPI_MASTER_BASEADDR, &TransferMemory);
+
 }
 
 

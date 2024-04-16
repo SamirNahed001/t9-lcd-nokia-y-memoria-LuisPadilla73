@@ -1,8 +1,10 @@
 /*
  * Delay.h
  *
- *  Created on: 25/09/2018
- *      Author: jlpe
+ *  Edited on: 15 abril 2024
+ *  Author:	J. Luis Pizano Escalante
+ *  Editors: L. Gerardo Padilla Torres, luis.padilla@iteso.mx
+ *  		 S. Nahed Garcia, ie719805@iteso.mx
  */
 
 #ifndef DELAY_H_
